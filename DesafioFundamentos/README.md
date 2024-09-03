@@ -1,3 +1,28 @@
+ ### **❗❗❗❗❗ Update ❗❗❗❗❗**
+
+ ### **feat:** Sistema Estacionamento: 🅿️
+
+- **Foi separado as Pastas onde continha o Program e foi criado uma Projeto Class Library para armazenar as funções que são chamadas no Program.**
+
+- **Incrementado as Funções:** 
+
+    | Cadastrar a Placa do Veiculo ✔️
+    
+    | Listar os Veiculos estacionados ✔️
+
+    | Remover um Veiculos ✔️
+
+    | Calcular o preço há ser pago pelas Horas que ficou estacionado ✔️
+    
+
+
+- **Extra: Função para deixar todas as Placas da Lista com letras Maiúsculas.** ✅
+
+##
+
+
+
+
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
